@@ -1,5 +1,5 @@
 "use client"
-import SimpleCard from "@/components/SignInCard"
+import SimpleCard from "@/app/signin/SignInCard"
 
 export default function SignInPage() {
   return (

@@ -1,5 +1,5 @@
 "use client"
-import SignupCard from "@/components/SignUpCard"
+import SignupCard from "@/app/signup/SignUpCard"
 
 export default function SignUpPage() {
   return (
